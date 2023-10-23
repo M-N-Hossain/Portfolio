@@ -13,7 +13,7 @@ import "../components/Hexagon/HexagonStyles.css";
 const Tech = () => {
   return (
     <>
-      <motion.div variants={textVariant()}>
+      <motion.div variants={textVariant()} className="mb-6">
         <h2 className={`${styles.sectionHeadText}`}>Skills.</h2>
       </motion.div>
 
@@ -32,7 +32,7 @@ const Tech = () => {
   );
 };
 
-export default SectionWrapper(Tech, "");
+export default SectionWrapper(Tech, "skills");
 
 /* 
 
