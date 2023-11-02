@@ -51,7 +51,7 @@ const About = () => {
         developer. With a passion for coding, I've honed my skills in Java and
         JavaScript, and have expertise in frameworks like Spring Boot, React,
         React-Native, Node.js, and Express.js. I thrive on challenges and am a
-        quick learner, collaborating closely with clients to create efficient,
+        quick learner, collaborating closely with teams to create efficient,
         scalable, and user-friendly solutions that solve real-world problems.
         Let's work together to bring your ideas to life.
       </motion.p>

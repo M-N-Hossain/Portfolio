@@ -22,6 +22,7 @@ import {
   klimakampen,
   documentationWebsite,
   groceryShop,
+  TourTravel,
 } from "../assets";
 
 export const navLinks = [
@@ -202,6 +203,7 @@ const projects = [
       },
     ],
     image: documentationWebsite,
+    wesite_link: "",
     source_code_link: "https://github.com/M-N-Hossain/Documentation",
   },
   {
@@ -233,29 +235,31 @@ const projects = [
       },
     ],
     image: groceryShop,
+    wesite_link: "",
     source_code_link:
       "https://github.com/M-N-Hossain/GroceryDeliverySystemFrontend.git",
   },
   {
-    name: "Trip Guide",
+    name: "Tour&Travel",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "It is a fun project while learning about react. It potrays my ability and understanding of React and its core concepts.",
     tags: [
       {
-        name: "nextjs",
-        color: "blue-text-gradient",
+        name: "JavaScript",
+        color: "pink-text-gradient",
       },
       {
-        name: "supabase",
-        color: "green-text-gradient",
+        name: "React JS",
+        color: "blue-text-gradient",
       },
       {
         name: "css",
         color: "pink-text-gradient",
       },
     ],
-    image: "",
-    source_code_link: "https://github.com/",
+    image: TourTravel,
+    wesite_link: "https://transcendent-gaufre-609435.netlify.app/",
+    source_code_link: "https://github.com/M-N-Hossain/tour-travelproject",
   },
 ];
 

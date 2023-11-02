@@ -28,6 +28,7 @@ import klimakampen from "./company/klimakampen.png";
 
 import documentationWebsite from "./documentationWebsite.png";
 import groceryShop from "./groceryShop.png";
+import TourTravel from "./TourTravel.png";
 
 export {
   logo,
@@ -57,4 +58,5 @@ export {
   klimakampen,
   documentationWebsite,
   groceryShop,
+  TourTravel,
 };
