@@ -143,11 +143,12 @@ const experiences = [
     icon: klimakampen,
     iconBg: "#383E56",
     date: "August 2023 - Present",
+    
     points: [
       "Enhancing the user experience of the Klimakampen cross-platform app by implementing a variety of user-centered design principles and conducting extensive user testing.",
       "Developing and sustaining both the frontend (React Native) and backend (Node.js) components of the app, ensuring seamless integration and optimal performance.",
       "Utilizing AWS services to build a robust and scalable infrastructure capable of handling a growing user base and increasing traffic demands.",
-      "Playing a key role in expanding the app's functionality to include personalized recommendations, progress tracking, and gamification elements.",
+      "Playing a key role in expanding the app's functionality to include personalized recommendations, progress tracking, and gamification elements."
     ],
   },
 ];
