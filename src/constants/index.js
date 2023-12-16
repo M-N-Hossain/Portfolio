@@ -75,7 +75,7 @@ const technologies = [
   },
   {
     name: "TypeScript",
-    icon: "typescript",
+    icon: typescript,
   },
   {
     name: "HTML",
@@ -143,7 +143,7 @@ const experiences = [
     icon: klimakampen,
     iconBg: "#383E56",
     date: "August 2023 - Present",
-    
+
     points: [
       "Enhancing the user experience of the Klimakampen cross-platform app by implementing a variety of user-centered design principles and conducting extensive user testing.",
       "Developing and sustaining both the frontend (React Native) and backend (Node.js) components of the app, ensuring seamless integration and optimal performance.",
