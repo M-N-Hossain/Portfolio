@@ -12,6 +12,7 @@ import docker from "./tech/docker.png";
 import git from "./tech/github.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
+import typescript from './tech/typescript.png'
 import java from "./tech/java.png";
 import spring from "./tech/spring.png";
 import sqlite from "./tech/sqlite.png";
@@ -48,6 +49,7 @@ export {
   html,
   java,
   javascript,
+  typescript,
   nodejs,
   reactjs,
   reactNative,
