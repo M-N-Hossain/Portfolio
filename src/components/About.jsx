@@ -47,13 +47,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a Bangladeshi boy following my dream to be an efficient software
-        developer. With a passion for coding, I've honed my skills in Java and
-        JavaScript, and have expertise in frameworks like Spring Boot, React,
-        React-Native, Node.js, and Express.js. I thrive on challenges and am a
-        quick learner, collaborating closely with teams to create efficient,
-        scalable, and user-friendly solutions that solve real-world problems.
-        Let's work together to bring your ideas to life.
+        I'm a determined Bangladeshi boy following my dream to be an efficient software
+        developer. With a passion for coding, I've honed my skills in Java, 
+        JavaScript, and TypeScript and I'm well-equipped with frameworks like Spring Boot, React, React Native, and Express.js in the Node environment. 
+        The best qualities I have are I am a quick learner  and a hardworking person. Because of my unwavering passion for technology,
+        I am always ready to learn and explore technologies and my hardworking mindset allows me to adapt and manage any situation openly.
+      
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
